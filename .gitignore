@@ -3,3 +3,12 @@ node_modules/
 
 # svelte-kit meta
 .svelte-kit/
+# Cloudflare Types
+/worker-configuration.d.ts
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
