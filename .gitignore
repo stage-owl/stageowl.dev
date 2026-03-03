@@ -1,0 +1,5 @@
+# dependencies
+node_modules/
+
+# svelte-kit meta
+.svelte-kit/
